@@ -123,7 +123,7 @@ interface ContohLagi  {
 }
 
 const obcContoh : ContohLagi = {
-    pler: "enak",
+    pler: "enak bera",
     // ewew: 2
 }
 
