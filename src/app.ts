@@ -56,7 +56,7 @@ class Car {
 
 class Truck {
     mobil(){
-        console.log("test")
+        console.log("tests")
     }
     trek(){
         console.log("trukk")
